@@ -1,5 +1,5 @@
 import numpy as np
-
+### Formated for Tomlinson Phage Library CDR2 and CDR3 region
 a = np.array([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
 b = np.array([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
 c = np.array([0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17])
